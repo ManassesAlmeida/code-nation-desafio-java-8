@@ -1,6 +1,6 @@
 https://www.codenation.com.br/acceleration/aceleradev-recife/challenge/java-1.html
 
-<h3> Backend para gerenciar times de futebol. </h3>
+<h1> Backend para gerenciar times de futebol. </h1>
 
 Você é responsável por construir o backend de um novo gerenciador de times de futebol. Após fecharem o escopo do projeto, você e sua equipe definiram a @interface que o software deve implementar. A interface é a seguinte :
 
@@ -49,7 +49,7 @@ Você é responsável por construir o backend de um novo gerenciador de times de
 
 Os dados devem ficar armazenados na memória.
 
-# Requisitos de Sistema
+<h3>Requisitos de Sistema</h3>
 - Parâmetros com * são obrigatórios.
 - Os parâmetros, com exceção de identificadores, são sempre íntegros e farão sentido.
 
